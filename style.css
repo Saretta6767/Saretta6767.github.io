@@ -1,6 +1,7 @@
  body{
 	 font-family:arial, sans;
-	 background-color: WhiteSmoke
+	 background-color: WhiteSmoke;
+	 background-image: url("imh8.jpg");
  }
  .centrato{
 		 display: flex;
@@ -15,4 +16,10 @@
  .schede {
 	 margin-top: 40px;
  }
- 
+ .regole {
+	 max-width: 560px;
+	 
+ }
+ a {
+	 text-decoration: none;
+ }

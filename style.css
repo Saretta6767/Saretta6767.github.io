@@ -43,4 +43,14 @@
                 animation-direction: alternate;	
                 animation-timing-function: linear;				
 }
-					
+#video{
+       width: 560px;
+       height: 315px;	   
+}
+@media only screen and (max-width: 600px){
+	#video{
+       width: 280px;
+       height: 157px;	   
+
+	}
+}

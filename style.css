@@ -15,6 +15,9 @@
  
  .schede {
 	 margin-top: 40px;
+	 display: flex;
+	 flex-wrap: wrap;
+	 justify-content: center;
  }
  .regole {
 	 max-width: 560px;

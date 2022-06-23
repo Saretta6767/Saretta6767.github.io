@@ -23,3 +23,21 @@
  a {
 	 text-decoration: none;
  }
+ .social{
+	 width: 50px;
+ }
+@keyframes spin {
+      from {
+        color: black;
+    } to {
+       color: white;
+    }
+}
+#titoloanimato{
+                animation-name: spin;
+                animation-duration: 5s;	
+                animation-iteration-count: infinite;	
+                animation-direction: alternate;	
+                animation-timing-function: linear;				
+}
+					
